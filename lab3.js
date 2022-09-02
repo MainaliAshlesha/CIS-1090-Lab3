@@ -5,8 +5,11 @@
 
 
 
-//         (use this space)
 
+// REturn the number cubed       
+function cube(n){
+    return n * n * n  ; 
+}
 
 
 
